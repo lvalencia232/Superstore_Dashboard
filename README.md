@@ -1,4 +1,4 @@
-# European Soccer Match Prediction & Analytics Dashboard
+# Sales Performance Dashboard
 
 This project presents a comprehensive Sales Analytics Dashboard developed in Power BI to analyze customer behavior, product performance, profitability, and discount impact for a retail store.
 
